@@ -14,7 +14,7 @@ export default function Home() {
       </nav>
 
       {/* Hero */}
-      <section className="pt-32 pb-16 bg-healey-charcoal">
+      <section className="pt-32 pb-16 bg-healey-dark">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <span className="inline-block px-4 py-1.5 bg-healey-white/10 text-healey-white/90 text-sm font-medium rounded-full mb-6">
             5-Email Educational Series
@@ -96,11 +96,11 @@ export default function Home() {
       <section className="py-6 bg-healey-white border-b border-healey-gray-200 sticky top-[73px] z-40">
         <div className="max-w-4xl mx-auto px-6">
           <div className="flex flex-wrap gap-2 justify-center">
-            <a href="#email1" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Email 1</a>
-            <a href="#email2" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Email 2</a>
-            <a href="#email3" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Email 3</a>
-            <a href="#email4" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Email 4</a>
-            <a href="#email5" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Email 5</a>
+            <a href="#day1" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 1</a>
+            <a href="#day2" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 2</a>
+            <a href="#day3" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 3</a>
+            <a href="#day4" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 4</a>
+            <a href="#day5" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 5</a>
           </div>
         </div>
       </section>
@@ -110,7 +110,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-6 space-y-16">
 
           {/* EMAIL 1 */}
-          <article id="email1" className="scroll-mt-40">
+          <article id="day1" className="scroll-mt-40">
             <div className="flex items-center gap-3 mb-6">
               <span className="flex-shrink-0 w-12 h-12 bg-healey-charcoal rounded-xl flex items-center justify-center text-white font-semibold">
                 1
@@ -287,7 +287,7 @@ export default function Home() {
           </article>
 
           {/* EMAIL 2 */}
-          <article id="email2" className="scroll-mt-40">
+          <article id="day2" className="scroll-mt-40">
             <div className="flex items-center gap-3 mb-6">
               <span className="flex-shrink-0 w-12 h-12 bg-healey-charcoal rounded-xl flex items-center justify-center text-white font-semibold">
                 2
@@ -365,7 +365,7 @@ export default function Home() {
           </article>
 
           {/* EMAIL 3 */}
-          <article id="email3" className="scroll-mt-40">
+          <article id="day3" className="scroll-mt-40">
             <div className="flex items-center gap-3 mb-6">
               <span className="flex-shrink-0 w-12 h-12 bg-healey-charcoal rounded-xl flex items-center justify-center text-white font-semibold">
                 3
@@ -532,7 +532,7 @@ export default function Home() {
           </article>
 
           {/* EMAIL 4 */}
-          <article id="email4" className="scroll-mt-40">
+          <article id="day4" className="scroll-mt-40">
             <div className="flex items-center gap-3 mb-6">
               <span className="flex-shrink-0 w-12 h-12 bg-healey-charcoal rounded-xl flex items-center justify-center text-white font-semibold">
                 4
@@ -623,7 +623,7 @@ export default function Home() {
           </article>
 
           {/* EMAIL 5 */}
-          <article id="email5" className="scroll-mt-40">
+          <article id="day5" className="scroll-mt-40">
             <div className="flex items-center gap-3 mb-6">
               <span className="flex-shrink-0 w-12 h-12 bg-healey-charcoal rounded-xl flex items-center justify-center text-white font-semibold">
                 5
