@@ -99,7 +99,7 @@ export default function Home() {
             <a href="#day1" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 1</a>
             <a href="#day2" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 2</a>
             <a href="#day3" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 3</a>
-            <a href="#day4" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 4</a>
+            <a href="#day4" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 3</a>
             <a href="#day5" className="px-4 py-2 bg-healey-light rounded-lg text-sm font-medium text-healey-gray-600 hover:bg-healey-charcoal hover:text-white transition-colors border border-healey-gray-200">Day 5</a>
           </div>
         </div>
@@ -116,7 +116,7 @@ export default function Home() {
                 1
               </span>
               <div>
-                <p className="text-sm text-healey-gray-500 font-medium">Day 0 - Immediate</p>
+                <p className="text-sm text-healey-gray-500 font-medium">Day 1</p>
                 <h2 className="text-2xl font-semibold text-healey-charcoal">The Locked Vault</h2>
               </div>
             </div>
@@ -254,25 +254,25 @@ export default function Home() {
                       <svg className="w-4 h-4 text-healey-green" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                       </svg>
-                      <span><strong>Email 2:</strong> How the secondary market actually works</span>
+                      <span><strong>Day 2:</strong> How the secondary market actually works</span>
                     </li>
                     <li className="flex items-center gap-2">
                       <svg className="w-4 h-4 text-healey-green" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                       </svg>
-                      <span><strong>Email 3:</strong> Investment structures (SPVs, direct shares, tender offers)</span>
+                      <span><strong>Day 3:</strong> Investment structures (SPVs, direct shares, tender offers)</span>
                     </li>
                     <li className="flex items-center gap-2">
                       <svg className="w-4 h-4 text-healey-green" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                       </svg>
-                      <span><strong>Email 4:</strong> Real risks and how to evaluate opportunities</span>
+                      <span><strong>Day 4:</strong> Real risks and how to evaluate opportunities</span>
                     </li>
                     <li className="flex items-center gap-2">
                       <svg className="w-4 h-4 text-healey-green" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                       </svg>
-                      <span><strong>Email 5:</strong> How to access deals without $1M+ minimums</span>
+                      <span><strong>Day 5:</strong> How to access deals without $1M+ minimums</span>
                     </li>
                   </ul>
                 </div>
@@ -371,7 +371,7 @@ export default function Home() {
                 3
               </span>
               <div>
-                <p className="text-sm text-healey-gray-500 font-medium">Day 4</p>
+                <p className="text-sm text-healey-gray-500 font-medium">Day 3</p>
                 <h2 className="text-2xl font-semibold text-healey-charcoal">Investment Structures Explained</h2>
               </div>
             </div>
@@ -538,7 +538,7 @@ export default function Home() {
                 4
               </span>
               <div>
-                <p className="text-sm text-healey-gray-500 font-medium">Day 6</p>
+                <p className="text-sm text-healey-gray-500 font-medium">Day 4</p>
                 <h2 className="text-2xl font-semibold text-healey-charcoal">Understanding the Risks</h2>
               </div>
             </div>
@@ -629,7 +629,7 @@ export default function Home() {
                 5
               </span>
               <div>
-                <p className="text-sm text-healey-gray-500 font-medium">Day 8</p>
+                <p className="text-sm text-healey-gray-500 font-medium">Day 5</p>
                 <h2 className="text-2xl font-semibold text-healey-charcoal">Evaluation Framework + Access</h2>
               </div>
             </div>
